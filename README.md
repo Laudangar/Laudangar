@@ -1,3 +1,9 @@
+
+
+
+
+![](https://komarev.com/ghpvc/?https://github.com/Laudangar&color=green&style=flat-square&label=PROFILE+VIEWS)
+
 ## Hola soy Laura, ¡Un gusto conocerte! 
 Apasionada de la tecnología y sus innovaciones.
 
