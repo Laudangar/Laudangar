@@ -7,8 +7,8 @@
 ## Hola soy Laura, ¡Un gusto conocerte! 
 Apasionada de la tecnología y sus innovaciones.
 
-* 🔭 Actualmente estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, 🌱 con ancias de aplicar mis conocimientos.
-* 👩‍💼 Actualmente estoy practicando con Selenium 📘 y ya he realizado proyectos con 💻 lenguaje SQL y Python, sutilizando la libreria Pythest y Request, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.🧑‍💻
+* 🔭 Soy QA Engineer en el BootCamp TripleTen, 🌱 con ancias de aplicar mis conocimientos.
+* 👩‍💼 Actualmente estoy practicando con Selenium 📘 y ya he realizado proyectos con 💻 lenguaje SQL y Python, utilizando la libreria Pythest y Request, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.🧑‍💻
 * 😍 Me encanta seguir aprendiendo y actualizandome sobre las nuevas tendencias que hay.
 * 📫 Me puedes encontrar en [![Linkedin Badge](https://img.shields.io/badge/-Laura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-garcia-v-27299015a/)
 * 📧 laurad.garciav@gmail.com
